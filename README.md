@@ -2,11 +2,11 @@
 
  Python has emerged as one of the most popular programming languages for data science, thanks to its rich ecosystem of libraries and tools tailored for handling, analyzing, and visualizing data.
 
-## Here are some key aspects that make Python indispensable for data science:
+## 1. Here are some key aspects that make Python indispensable for data science:
 ### Ease of Learning and Use:
 Python's clear and readable syntax makes it accessible to beginners and experienced programmers alike. Its simplicity accelerates the learning curve, allowing data scientists to focus more on solving problems rather than grappling with complex syntax.
 
-### Extensive Libraries: 
+### 2. Extensive Libraries: 
 Python boasts a vast collection of libraries specifically designed for data science tasks. Libraries such as NumPy for numerical computing, Pandas for data manipulation and analysis, Matplotlib and Seaborn for data visualization, and Scikit-learn for machine learning offer robust and efficient solutions for various data-related tasks.
 
 Community Support: Python benefits from a vibrant and active community of developers and data scientists. This community continually contributes to the development and enhancement of data science tools and resources, providing valuable support through forums, online communities, and collaborative projects.
