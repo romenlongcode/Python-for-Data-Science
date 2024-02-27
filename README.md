@@ -9,7 +9,7 @@ Python's clear and readable syntax makes it accessible to beginners and experien
 ### 2. Extensive Libraries: 
 Python boasts a vast collection of libraries specifically designed for data science tasks. Libraries such as NumPy for numerical computing, Pandas for data manipulation and analysis, Matplotlib and Seaborn for data visualization, and Scikit-learn for machine learning offer robust and efficient solutions for various data-related tasks.
 
-Community Support: Python benefits from a vibrant and active community of developers and data scientists. This community continually contributes to the development and enhancement of data science tools and resources, providing valuable support through forums, online communities, and collaborative projects.
+### 3.Community Support: Python benefits from a vibrant and active community of developers and data scientists. This community continually contributes to the development and enhancement of data science tools and resources, providing valuable support through forums, online communities, and collaborative projects.
 
 Integration with Other Tools: Python seamlessly integrates with other data science tools and technologies, making it an ideal choice for building end-to-end data pipelines. It can interact with databases, web APIs, cloud services, and other programming languages, facilitating smooth data workflow management.
 
