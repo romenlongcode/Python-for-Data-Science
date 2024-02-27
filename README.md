@@ -12,8 +12,8 @@ Python boasts a vast collection of libraries specifically designed for data scie
 ### 3.Community Support: 
 Python benefits from a vibrant and active community of developers and data scientists. This community continually contributes to the development and enhancement of data science tools and resources, providing valuable support through forums, online communities, and collaborative projects.
 
-### Integration with Other Tools: Python seamlessly integrates with other data science tools and technologies, making it an ideal choice for building end-to-end data pipelines. It can interact with databases, web APIs, cloud services, and other programming languages, facilitating smooth data workflow management.
+### 4.Integration with Other Tools: Python seamlessly integrates with other data science tools and technologies, making it an ideal choice for building end-to-end data pipelines. It can interact with databases, web APIs, cloud services, and other programming languages, facilitating smooth data workflow management.
 
-### Scalability and Performance: While Python is renowned for its ease of use and flexibility, it also offers scalability and performance when handling large datasets. Libraries like Dask and Apache Spark enable distributed computing and parallel processing, allowing data scientists to analyze massive datasets efficiently.
+### 5.Scalability and Performance: While Python is renowned for its ease of use and flexibility, it also offers scalability and performance when handling large datasets. Libraries like Dask and Apache Spark enable distributed computing and parallel processing, allowing data scientists to analyze massive datasets efficiently.
 
 Open-Source Ecosystem: Python's open-source nature fosters innovation and collaboration within the data science community. Developers have access to a plethora of open-source projects, tools, and resources, empowering them to tackle diverse data science challenges effectively.
