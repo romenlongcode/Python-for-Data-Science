@@ -7,6 +7,7 @@
 Python's clear and readable syntax makes it accessible to beginners and experienced programmers alike. Its simplicity accelerates the learning curve, allowing data scientists to focus more on solving problems rather than grappling with complex syntax.
 
 ### 2. Extensive Libraries: 
+
 Python boasts a vast collection of libraries specifically designed for data science tasks. Libraries such as NumPy for numerical computing, Pandas for data manipulation and analysis, Matplotlib and Seaborn for data visualization, and Scikit-learn for machine learning offer robust and efficient solutions for various data-related tasks.
 
 ### 3.Community Support: 
